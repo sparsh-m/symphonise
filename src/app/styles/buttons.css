@@ -1,0 +1,25 @@
+.calculateButton-section {
+  margin-bottom: 30px;
+}
+.calculateButton {
+  border-radius: 38px !important;
+  height: 60px;
+  width: 225px;
+  font-size: 20px !important;
+  color: #352b2b !important;
+  background: linear-gradient(to left, #1DB954,#7fff4d) !important;
+  transform: scale(1) !important;
+  transition: transform 0.15s ease !important;
+  cursor: pointer;
+}
+.calculateButton:hover {
+  background: linear-gradient(to left, #7fff4d,#00fc59) !important;
+  transform: scale(1.035) !important;
+  transition: transform 0.2s ease !important;
+}
+.calculateButton:active {
+  color: #352b2b !important;
+  transform: scale(0.95) !important;
+  transition: transform 0.1s ease !important;
+}
+

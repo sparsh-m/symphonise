@@ -1,0 +1,32 @@
+{
+  "name": "syn",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.16.2",
+    "chart.js": "^2.7.0",
+    "glamor": "^2.20.40",
+    "glamorous": "^4.9.7",
+    "jquery": "^3.2.1",
+    "prop-types": "^15.6.0",
+    "react": "^15.6.1",
+    "react-alert": "^2.4.0",
+    "react-chartjs-2": "^2.6.4",
+    "react-dom": "^15.6.1",
+    "react-ga": "^2.3.5",
+    "react-icons": "^2.2.7",
+    "react-rangeslider": "^2.2.0",
+    "react-scripts": "1.0.13",
+    "react-select": "^1.0.0-rc.10",
+    "react-slick": "^0.15.4",
+    "react-spinkit": "^3.0.0",
+    "slick-carousel": "^1.8.1",
+    "spotify-web-api-js": "^0.22.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
